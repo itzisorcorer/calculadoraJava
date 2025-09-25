@@ -5,6 +5,6 @@ package com.uttec.calculadora;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World from laptop's Diana");
+        System.out.println("Hello World from Diana's laptop");
     }
 }
