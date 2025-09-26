@@ -1,1 +1,4 @@
+com\uttec\calculadora\model\CalculadoraModel.class
 com\uttec\calculadora\App.class
+com\uttec\calculadora\view\CalculadoraView.class
+com\uttec\calculadora\controller\CalculadoraController.class

@@ -8,10 +8,10 @@ import org.junit.jupiter.api.Test;
 
 import com.uttec.calculadora.model.CalculadoraModel;
 
-
-//Pruebas unitarias para la clase CalculadoraModel
+//Pruebas unitarias para la clase CalculadoraModel si k si
 
 public class CalculadoraModelTest {
+
     private CalculadoraModel model;
 
     // Esta anotación hace que este método se ejecute ANTES de cada prueba.
@@ -65,5 +65,4 @@ public class CalculadoraModelTest {
         }, "Debería lanzar IllegalArgumentException al dividir por cero");
     }
 
-    
 }
